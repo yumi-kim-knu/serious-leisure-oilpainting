@@ -19,7 +19,7 @@ The instrument consists of 24 items across six dimensions of serious leisure.
 
 ---
 
-## Leisure Career
+## Career
 | Item No. | Statement |
 |---------|-----------|
 | C1 | I have specialized knowledge about oil painting techniques and materials. |
@@ -39,7 +39,7 @@ The instrument consists of 24 items across six dimensions of serious leisure.
 
 ---
 
-## Identity
+## Strong Identity
 | Item No. | Statement |
 |---------|-----------|
 | I1 | Oil painting holds an important place in my life. |
@@ -59,7 +59,7 @@ The instrument consists of 24 items across six dimensions of serious leisure.
 
 ---
 
-## Durable Benefits
+## Durable Benefits and Rewards
 | Item No. | Statement |
 |---------|-----------|
 | D1 | Oil painting brings vitality to my life. |
